@@ -1,0 +1,10 @@
+
+int hello(){
+//is it me you are looking for?
+int a = 4;
+while (a <= 7){
+string hey= "hello";
+a= a+ 1;
+return a;
+}
+}

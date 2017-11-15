@@ -1,0 +1,7 @@
+#include "buttface.oc"
+//is it me you are looking for?
+a = b
+while (a <= 7){
+string hey= "hello";
+a= a+ 1;
+}

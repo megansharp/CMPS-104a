@@ -1,0 +1,41 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2017.04.27.23.58.18;	author mesharp;	state Exp;
+branches;
+next	;
+
+
+desc
+@f
+
+f
+
+
+:q
+*.cpp
+
+
+
+
+
+
+q
+-1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@"i love taco"
+a = b + c;
+a a a a 
+@
